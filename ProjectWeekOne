@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T03:40:19.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="iZBG5MuXk25CMaXvl3-S" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-11T03:49:40.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="-BWeJXpTCEQ9VaBukbf9" version="17.4.3" type="github">
   <diagram id="MBASXJWaLd2x7C1xwhIq" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,6 +98,50 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="440.5" as="sourcePoint" />
             <mxPoint x="625" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0PnaaBG1ia1uFlMvkitr-63" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pngimg.com/uploads/github/github_PNG40.png;" vertex="1" parent="1">
+          <mxGeometry x="180" y="250" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0PnaaBG1ia1uFlMvkitr-64" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="340" y="250" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0PnaaBG1ia1uFlMvkitr-65" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=11;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="0PnaaBG1ia1uFlMvkitr-64">
+          <mxGeometry width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0PnaaBG1ia1uFlMvkitr-66" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.armadilloamarillo.com/wp-content/uploads/spring-boot-ok.png;" vertex="1" parent="0PnaaBG1ia1uFlMvkitr-64">
+          <mxGeometry y="25" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0PnaaBG1ia1uFlMvkitr-67" value="&lt;strong&gt;Config Server&lt;/strong&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="0PnaaBG1ia1uFlMvkitr-64">
+          <mxGeometry x="60" y="20" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0PnaaBG1ia1uFlMvkitr-68" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="280" as="sourcePoint" />
+            <mxPoint x="570" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0PnaaBG1ia1uFlMvkitr-69" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="250" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0PnaaBG1ia1uFlMvkitr-70" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.laptop;part=1;" vertex="1" parent="0PnaaBG1ia1uFlMvkitr-69">
+          <mxGeometry x="0.5" width="50" height="33" relative="1" as="geometry">
+            <mxPoint x="-25" y="18.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0PnaaBG1ia1uFlMvkitr-71" value="&lt;font style=&quot;font-size: 15px&quot;&gt;GitHub&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="310" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0PnaaBG1ia1uFlMvkitr-72" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=2;" edge="1" parent="1" source="0PnaaBG1ia1uFlMvkitr-63" target="0PnaaBG1ia1uFlMvkitr-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="284.5" as="sourcePoint" />
+            <mxPoint x="320" y="284.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0PnaaBG1ia1uFlMvkitr-73" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="0PnaaBG1ia1uFlMvkitr-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="284.5" as="sourcePoint" />
+            <mxPoint x="170" y="284.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
